@@ -89,7 +89,7 @@ while True:
 
 
 
-
+    # breaks program if choice is 1
     if choice == "1":
         break
 
