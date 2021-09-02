@@ -9,8 +9,6 @@ from json.decoder import JSONDecodeError
 # Get the username from terminal
 username = sys.argv[1]
 
-# User ID: neilmartin98
-
 # Erase cache and prompt
 try:
     token = util.prompt_for_user_token(username)
