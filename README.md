@@ -1,6 +1,6 @@
 # spotipy
 
-Local program to query the web API of spotify usng the spotipy module.
+Local program to query the web API of spotify usng the spotipy module. This will return the list of songs that the user has and will also return the track image of a song based on a numerical value.
 
 How to use:
 
